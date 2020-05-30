@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_framework",
+    "\\_framework\\_bin"
   ],
   "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
